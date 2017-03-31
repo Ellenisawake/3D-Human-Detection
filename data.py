@@ -1,8 +1,3 @@
-from kitti_data import pykitti
-from kitti_data.pykitti.tracklet import parseXML, TRUNC_IN_IMAGE, TRUNC_TRUNCATED
-from kitti_data.draw import *
-from kitti_data.io import *
-
 from net.utility.draw import *
 from net.processing.boxes3d import *
 
